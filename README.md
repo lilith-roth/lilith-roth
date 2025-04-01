@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi i'm Lilith!<br>I'm a nerd with with a passion for IOT, gamedev, security, network & cloud infrastructure, and QA.
+Hi i'm Lilith!<br>I'm a nerd with with a passion for IOT, gamedev, security, network/cloud infrastructure, and QA.
 
 
 # 💻 Tech Stack:
