@@ -15,7 +15,4 @@ Hi i'm Lilith!<br>I'm a nerd with with a passion for IOT, gamedev, security, net
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lilith-roth&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=lilith-roth&icon=0&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
