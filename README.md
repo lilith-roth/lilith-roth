@@ -2,6 +2,7 @@
 Hi i'm **Lilith!**<br>I'm a nerd with with a passion for IOT, gamedev, security, network/cloud infrastructure, and QA.
 
 ### Check out **[YRBA](https://github.com/lilith-roth/yrba/)** my easy to use backup tool for incremental remote backups!
+### Most of my projects have been migrated over to SourceHut due to the quality decline of GitHub! Please check out my SourceHut profile as well. [https://sr.ht/~lilith-roth/](https://sr.ht/~lilith-roth/)
 
 ---
 
